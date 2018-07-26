@@ -1,0 +1,6 @@
+<view>
+  <image class='image' src='{{url}}'></image>
+  <button bindtap='getFaceInfo'>点击识别</button>
+  <canvas class="canvas" canvas-id="canvas"></canvas>
+  <image class='image' src='{{resultImage}}'></image>
+</view>

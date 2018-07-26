@@ -1,0 +1,3 @@
+<view>
+  <question-component bindtap="todo" prop-a="e三生三世rerter"></question-component>
+</view>

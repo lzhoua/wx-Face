@@ -1,0 +1,6 @@
+<view>
+  <image src="{{url1}}" />
+  <image src="{{url2}}" />
+  <button type="default" bindtap="clickOn">点击融合</button>
+  <image class="res" src="data:image/png;base64,{{result}}" />
+</view>

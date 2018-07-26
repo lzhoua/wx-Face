@@ -1,0 +1,9 @@
+image {
+  width: 350rpx;
+  height: 350rpx;
+  border: thin solid red;
+}
+.res {
+  width: 700rpx;
+  height: 700rpx;
+}

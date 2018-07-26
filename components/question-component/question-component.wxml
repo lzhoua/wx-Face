@@ -1,0 +1,6 @@
+<!-- 组件模板 -->
+<view class="wrapper">
+  <view></view>
+  <view bindtap="clickA">{{propA}}</view>
+  <slot></slot>
+</view>

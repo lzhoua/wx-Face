@@ -1,0 +1,13 @@
+/* pages/page1/page1.wxss */
+.image {
+  width: 750rpx;
+  height: 560rpx;
+  border: thin solid red;
+}
+.canvas {
+  width: 3000px;
+  height: 3000px;
+  border: thin solid red;
+  position: absolute;
+  top: -3000px;
+}
